@@ -45,13 +45,13 @@ npx cypress run
 
 ---
 
-## 🔐 Login
+## 🔐 Comandos customizados
 
-O login é realizado via comando customizado:
+Foram criados comandos reutilizáveis para facilitar os testes e evitar repetição de código:
 
-```js
-cy.login();
-```
+- `cy.login()` → realiza autenticação no sistema
+- `cy.accessDashboard()` → acessa diretamente o dashboard após login
+- `cy.openCampaignModule()` → navega até o módulo de campanha
 
 ---
 
