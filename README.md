@@ -69,8 +69,9 @@ Foram criados comandos reutilizáveis para facilitar os testes e evitar repetiç
 
 ### ✔ Dashboard
 
-- Carregamento da tela
-- Navegação lateral
+- Acesso ao dashboard após autenticação
+- Validação de elementos principais da interface
+- Navegação pelo menu lateral
 - Acesso ao perfil(não apresentou alteração visual, redirecionamento ou carregamento de conteúdo durante a navegação testada)
 
 ### ✔ Campanha
