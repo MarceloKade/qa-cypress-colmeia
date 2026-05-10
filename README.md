@@ -59,10 +59,13 @@ Foram criados comandos reutilizáveis para facilitar os testes e evitar repetiç
 
 ### ✔ Login
 
-- Validação de elementos da tela
-- Login com sucesso
-- Erros de autenticação
-- Recuperação de senha
+- Validação de elementos da interface
+- Login com sucesso (foi observado comportamento inconsistente na mensagem exibida após autenticação)
+- Redirecionamento para dashboard após confirmação do login
+- Fluxo de recuperação de senha
+- Validação de campos obrigatórios
+- Validação de formato de e-mail
+- Tentativa de autenticação sem credenciais válidas
 
 ### ✔ Dashboard
 
