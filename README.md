@@ -95,9 +95,11 @@ Foram criados comandos reutilizáveis para facilitar os testes e evitar repetiç
 
 ## 🧪 Boas práticas aplicadas
 
-- cy.login reutilizável
-- organização por módulos
-- beforeEach para setup
-- separação por contexto
+- Utilização de comandos customizados reutilizáveis
+- Organização dos testes por módulos
+- Estrutura baseada em Page Object Model (POM)
+- Uso de `beforeEach` para setup dos cenários
+- Separação de testes por contexto e comportamento
+- Reutilização de métodos e ações nas páginas
 
 ---
