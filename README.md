@@ -75,8 +75,9 @@ Foram criados comandos reutilizáveis para facilitar os testes e evitar repetiç
 - Acesso ao módulo
 - Menu lateral
 - Navegação:
-  - Bancos de dados
-  - Colmeia Forms
+  - Bancos de dados(feature da aplicação com fluxo de criação, pesquisa, arquivamento e exclusão)
+    - Observação: durante a execução dos testes E2E, foi observado que os dados criados no módulo "Bancos de dados" não persistem após recarregamento da página, e itens arquivados não permanecem disponíveis na listagem de arquivados entre sessões.
+  - Colmeia Forms(acesso via menu lateral; conteúdo da página não é carregado durante a navegação testada)
 
 ---
 
