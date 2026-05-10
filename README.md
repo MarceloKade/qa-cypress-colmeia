@@ -68,7 +68,7 @@ Foram criados comandos reutilizáveis para facilitar os testes e evitar repetiç
 
 - Carregamento da tela
 - Navegação lateral
-- Acesso ao perfil
+- Acesso ao perfil(não apresentou alteração visual, redirecionamento ou carregamento de conteúdo durante a navegação testada)
 
 ### ✔ Campanha
 
