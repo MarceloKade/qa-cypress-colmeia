@@ -1,4 +1,4 @@
-import { dashboardPage } from '../../../pages/dashboard/dashboard.page'
+import { dashboardPage } from '../../pages/dashboard/dashboard.page'
 
 describe('Dashboard', () => {
 

@@ -1,4 +1,4 @@
-import { loginPage } from '../../../pages/auth/login.page'
+import { loginPage } from '../../pages/auth/login.page'
 
 describe('Login', () => {
 

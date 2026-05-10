@@ -1,4 +1,4 @@
-import { campanhaPage } from '../../../pages/campanha/campanha.page'
+import { campanhaPage } from '../../pages/campanha/campanha.page'
 
 describe('Campanha', () => {
 

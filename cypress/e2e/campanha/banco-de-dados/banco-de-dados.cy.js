@@ -1,4 +1,4 @@
-import { bancosPage } from '../../../../pages/campanha/banco-de-dados/banco-de-dados.page'
+import { bancosPage } from '../../../pages/campanha/banco-de-dados/banco-de-dados.page'
 
 describe('Bancos de dados', () => {
 
